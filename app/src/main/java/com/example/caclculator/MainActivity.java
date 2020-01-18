@@ -145,6 +145,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
         calculatedResult = Double.MAX_VALUE;
     }
+    //just adding this line
 
     private void dotIsPassed() {
         if (currentNum.equals("")) {
